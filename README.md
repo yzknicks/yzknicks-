@@ -9,6 +9,8 @@ Olá!
 
 -Sou estudante do Alura Start. 
 
+-Entre em contato comigo pelo email:fatima.carvalho.nicolle@escola.pr.gov.br 
+
 Obrigado por visitar meu perfil!
 
  💞️ 
