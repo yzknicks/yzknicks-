@@ -1,8 +1,9 @@
-Bem vindo ao meu perfil!
+Olá!
 
-Meu nome é Nicolle de Fatima Carvalho
+-Meu nome é Nicolle de Fatima Carvalho
 
--estou estudando alura. 
+-Sou estudante do Alura Start 
 
--estou desenvolvendo a linguagem do Javascript
+Obrigado por visitar meu perfil!
+
  💞️ 
